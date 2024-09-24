@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_Templates/General Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_Templates/General Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_Templates/General Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_Templates/General Note Template.md"
               }
             }
           }
@@ -146,6 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f0b9de2d2637804",
-  "lastOpenFiles": []
+  "active": "dcf586fdac8210c6",
+  "lastOpenFiles": [
+    "README.md",
+    "_Templates/General Note Template.md",
+    "_Templates",
+    "Tech Company Managment",
+    "Startup Fundamentals/Lean Launch",
+    "Startup Fundamentals"
+  ]
 }
