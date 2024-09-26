@@ -4,22 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "5abc23c52c629e9f",
+        "id": "c9b344239c28efe8",
         "type": "tabs",
         "children": [
           {
-            "id": "dcf586fdac8210c6",
+            "id": "f6a1dd6a6f1c2adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/General Note Template.md",
+                "file": "Global Index.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f22205f7ea79979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup Fundamentals/3. Mindset and Prototyping/_Lecture 3 Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01e3ca2366503347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup Fundamentals/3. Mindset and Prototyping/Entrepreneurial Mindset.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "976f93f5bf63ba29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup Fundamentals/5. Funding/_ Lecture 5 Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a81edfe1f93ffcf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup Fundamentals/3. Mindset and Prototyping/Prototyping Process.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/General Note Template.md",
+                "file": "Startup Fundamentals/5. Funding/_ Lecture 5 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/General Note Template.md",
+                "file": "Startup Fundamentals/5. Funding/_ Lecture 5 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/General Note Template.md"
+                "file": "Startup Fundamentals/5. Funding/_ Lecture 5 Notes.md"
               }
             }
           }
@@ -146,13 +200,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcf586fdac8210c6",
+  "active": "976f93f5bf63ba29",
   "lastOpenFiles": [
-    "README.md",
-    "_Templates/General Note Template.md",
+    "Startup Fundamentals/8. Guest Speaker - Andrew Kazlow/_Andrew Kazlow, MBA - CEO, PitchFact.md",
+    "Startup Fundamentals/7. Case Study 2 - Ethics/_CS2 Notes.md",
+    "Startup Fundamentals/8. Guest Speaker - Andrew Kazlow",
+    "Startup Fundamentals/6. Case Study 1 - Funding/_CS1 Notes.md",
+    "Startup Fundamentals/7. Case Study 2 - Ethics",
+    "Startup Fundamentals/5. Funding/_ Lecture 5 Notes.md",
+    "Startup Fundamentals/6. Case Study 1 - Funding",
+    "Startup Fundamentals/4. Legalese/_Lecture 4 Index.md",
+    "Startup Fundamentals/5. Funding",
+    "1. Introduction/Introduction.md",
+    "Startup Fundamentals/4. Legalese",
+    "Startup Fundamentals/3. Mindset and Prototyping/Prototyping Introduction.md",
+    "1. Introduction",
+    "Startup Fundamentals/Untitled.md",
+    "Startup Fundamentals/3. Mindset and Prototyping/Entrepreneurial Mindset.md",
+    "Startup Fundamentals/3. Mindset and Prototyping/Prototyping Process.md",
+    "Global Index.md",
+    "Startup Fundamentals/3. Mindset and Prototyping/_Lecture 3 Index.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Business Model Canvas (BMC).md",
+    "Startup Fundamentals/2. Developing Your Big Idea/_Lecture 2 Index.md",
+    "Startup Fundamentals/3. Mindset and Prototyping",
+    "Startup Fundamentals/2. Developing Your Big Idea/Marc Randolph on Testing Ideas.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Lean Launch Methodology.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Value Proposition Definition.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Sales Channels and Distribution.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Revenue Generation and Value.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/MVP and Quick Feedback.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Key Partners and Collaborations.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Key Activities for Business Success.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Ideas Don't Come Out Fully Formed.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Customer Segments and Why They Care.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Customer Feedback over Intuition.md",
+    "Startup Fundamentals/2. Developing Your Big Idea/Customer Discovery.md",
+    "Startup Fundamentals/2. Developing Your Big Idea",
     "_Templates",
-    "Tech Company Managment",
-    "Startup Fundamentals/Lean Launch",
-    "Startup Fundamentals"
+    "Tech Company Managment"
   ]
 }

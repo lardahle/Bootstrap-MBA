@@ -1,7 +1,3 @@
-{{date}} {{time}}
-
-Tags: 
-
-Paths: 
-
-Link: 
+Created: {{date}} {{time}}
+Last Edited: {{date}} {{time}}
+Tags: #Unfinished 
