@@ -10,33 +10,24 @@
 - **Convertible Debt**
     - A hybrid instrument that begins as a loan but converts to equity under specific conditions (e.g., fundraising round).
     - Often used as a short-term bridge between funding rounds.
-
----
-
 ### Equity
 
 - **Ownership interest in your business**
-    
     - "Giving away your future profits."
 - **Angel Investors**
-    
     - High-net-worth individuals using their personal money.
     - Smaller amounts of money and equity.
     - Focused on potential for growth.
 - **Venture Capitalists (VCs)**
-    
     - Pooled investors who raise money from other investors, not just their own.
     - Focus on companies poised for explosive growth.
 - **Strategic/Corporate VCs**
-    
     - Large companies with an interest in strategic partnerships.
     - Provide non-financial benefits like distribution channels or customer bases.
 - **Overseas Investors**
-    
     - **Biggest investors**: China, Germany, Saudi Arabia.
     - **Caution**: Many rules and regulations, legal counsel needed.
-- **Revenue-Based Financing (RBF)**
-    
+- **Revenue-Based Financing (RBF)**  
     - Investors are repaid based on a percentage of revenue rather than fixed repayments.
     - No equity is given away, but payments are dependent on company performance.
 
@@ -45,11 +36,9 @@
 ### Intermediaries
 
 - **Investment Bankers**
-    
     - Primarily concerned with raising capital for larger corporations.
     - Structuring mergers and acquisitions (M&A), IPOs.
 - **Private Equity Firms**
-    
     - Buy and resell mature, distressed companies at a discount.
     - Merge or spin off companies, typically not interested in startups.
 
@@ -58,14 +47,11 @@
 ## Mergers & Acquisitions
 
 - **Exit Plan**
-    
     - If you want your idea to come to fruition quickly, sell to a larger company but retain a management role.
     - Payment is based on milestones.
 - **Management Buyouts (MBOs)**
-    
     - An alternative exit strategy where management buys out the company from current shareholders.
 - **Secondary Sales**
-    
     - Investors sell their shares to new investors, often used before an IPO or as part of an exit strategy.
 
 ---
@@ -73,33 +59,25 @@
 ## Sources for YOUR Startup
 
 - **Personal Money**
-    
     - Self-funding through personal savings or assets.
 - **Friends, Family, and Fools**
-    
     - Initial investments from close personal networks.
 - **Grants**
-    
     - Non-dilutive funding like NSF I-Site, SBIR, SBTT, or local competitions.
     - High administrative overhead but no equity loss.
 - **Bootstrapping**
-    
     - Fund growth through revenue or personal funds.
     - Keep all equity but take on more risk, potentially slowing growth.
 - **Crowdfunding**
-    
     - Platforms like Kickstarter, GoFundMe, and Patreon.
     - Retain all equity, typically reward-based or equity-based crowdfunding.
 - **Incubators & Accelerators**
-    
     - Provide community, mentors, networking, and small amounts of equity or money.
     - Incubators = early-stage; accelerators = post-MVP/prototype stage.
-    - Examples: [[Capital Factory]] (Austin), [[Plug and Play]] (BCS).
+    - Examples: Capital Factory (Austin), Plug and Play (BCS).
 - **Angel Investors**
-    
     - Early-stage, personal money investors looking for high-growth potential.
 - **VCs**
-    
     - Focus on companies with explosive growth potential.
     - Can be more hands-on in the company’s strategic direction.
 
@@ -108,13 +86,11 @@
 ## Startup Categorization
 
 ### Pre-Seed
-
 - **Valuation**: None.
 - **Funding**: $10k to $100k.
 - **Stage**: Idea phase, working on proof of concept.
 
 ### Seed
-
 - **Valuation**: $2M to $5M.
 - **Funding**: Convertible instruments (Convertible Notes, SAFEs).
 
@@ -193,25 +169,19 @@ A **SAFE** is similar to a convertible note in that it allows the investor to co
 #### **Key Differences from Convertible Notes**:
 
 1. **Not Debt**:
-    
     - SAFEs are not loans, so they do not accrue interest and do not have a maturity date. This makes them more founder-friendly because there is no obligation to repay the investment if the conversion does not occur within a set period.
 2. **No Repayment Obligation**:
-    
     - Unlike convertible notes, SAFEs don’t require the company to repay the investment if a financing event doesn’t occur. Investors simply wait until the trigger event happens, with no ticking clock of a maturity date.
 3. **Simplicity**:
-    
     - SAFEs are designed to be simple and fast to execute. They generally come with fewer terms than convertible notes, making the investment process smoother and less cumbersome for early-stage companies that may not want the complexity of debt instruments.
 
 #### **Key Terms**:
 
 - **Valuation Cap**:
-    
     - Like convertible notes, SAFEs often have a valuation cap, ensuring that early investors get favorable conversion terms if the company’s value grows quickly.
 - **Discount Rate**:
-    
     - SAFEs can also offer a discount rate for converting into equity at the next financing round, similar to convertible notes. However, this isn’t always necessary—some SAFEs rely solely on the valuation cap for favorable conversion terms.
 - **Trigger Event**:
-    
     - SAFEs convert into equity at the next qualified financing round, much like convertible notes. However, since SAFEs are not debt, there’s no deadline or pressure from a maturity date.
 
 ---
@@ -233,7 +203,7 @@ A **SAFE** is similar to a convertible note in that it allows the investor to co
 
 ---
 
-## Series B, C, D, etc.
+## Series B onwards
 
 - **Valuation**: $15M to $25M (for Series B).
 - **Purpose**: Expansions, acquisitions of complementary businesses, growing the company.
@@ -244,22 +214,16 @@ A **SAFE** is similar to a convertible note in that it allows the investor to co
 ## Valuation Methods
 
 - **Pre-Money Valuation**
-    
     - The company's value before receiving external funding.
 - **Post-Money Valuation**
-    
     - The company's value after external funding is received, used to calculate investor equity.
 - **Valuation Caps**
-    
     - A limit placed on the valuation at which convertible instruments (e.g., notes or SAFEs) will convert to equity.
 - **Discount Rate**
-    
     - The percentage reduction offered to early investors to compensate for their higher risk.
 - **Berkus Method**
-    
     - A valuation method for pre-revenue startups, assigning value to different risk factors.
 - **Scorecard Method**
-    
     - Compares the startup to similar businesses and assigns a valuation based on risk, market, and team.
 
 ---

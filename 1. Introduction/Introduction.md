@@ -1,3 +1,7 @@
+---
+tags:
+  - linker-exclude
+---
 This vault is meant to serve as a repository of business knowledge that I have picked up throughout the Engineering Entrepreneurship minor at Texas A&M University.
 
 Special thanks to the following professors for their respective courses taken and their profound influence on my entrepreneurial education:

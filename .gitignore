@@ -1,0 +1,7 @@
+# Local-only Obsidian/AI state (not part of the module)
+.obsidian/workspace*.json
+.obsidian/plugins/
+.obsidian/community-plugins.json
+.smart-env/
+smart-chats/
+.trash/

@@ -1,6 +1,6 @@
 Created: 2024-09-24 18:14
 Last Edited: 2024-09-24 18:14
-Tags: #Unfinished 
+Tags: #Unfinished  
 
 Identify key resources, skills, and expertise needed to make your business succeed.
 
