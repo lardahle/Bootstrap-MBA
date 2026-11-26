@@ -2,28 +2,25 @@
 tags:
   - linker-exclude
 ---
-This vault is meant to serve as a repository of business knowledge that I have picked up throughout the Engineering Entrepreneurship minor at Texas A&M University.
+This vault is a repository of the business knowledge I picked up in the Engineering Entrepreneurship minor at Texas A&M University, through the [Meloy Program – Engineering Innovation and Entrepreneurship](https://engineering.tamu.edu/student-life/eep/about/index.html).
 
-Special thanks to the following professors for their respective courses taken and their profound influence on my entrepreneurial education:
+Special thanks to these professors for their courses and for their profound influence on my entrepreneurial education:
 
+**Shayla Riviera**
+- MTDE 262 – Entrepreneurship Hour
 
-ENDS 101 - 
+**Jim Donnell**, Executive Director of the Meloy Program; Professor of Practice, Interdisciplinary Engineering
+- ENGR 311 – Enterprise Basics
 
-Shayla Riviera
-MTDE 262 - Entrepreneurship Hour
+**Paul Deere**, Associate Professor of Practice, Interdisciplinary Engineering
+- ENGR 312 – Tech Company Management
+- MTDE 489 – Startup Fundamentals
 
-Jim Donnell:
-ENGR 311 - Enterprise Basics
+**Chris Finberg**, Associate Professor of Practice, Interdisciplinary Engineering; Innovation Director, PATHS-UP (an NSF Engineering Research Center)
+- ENGR 461 – Lean Launch
 
-Paul Deere:
-ENGR 312 - Tech Company Management
-MTDE 489 - Startup Fundamentals
+**Dr. Cynthia Hipwell**, Oscar S. Wyatt, Jr. '45 Chair II, Mechanical Engineering
+- MEEN 497 – Innovator Mindset for Design and Research (I attended part of the course)
 
-Dr. Chris Finberg
-ENGR 461 - Lean Launch
-
-Dr. Cynthia Hipwell:
-MEEN 497 - Innovator Mindset for Design and Research (attended part of the course)
-
-Chris Curran
-Meloy Foundation/Engineering Inc. weekly coffee chats
+**Chris Curran**, Director of the Engineering Incubator; Professor of Practice, Interdisciplinary Engineering
+- The Engineering Incubator and its weekly coffee chats
