@@ -66,7 +66,7 @@ Sorted by order of when each concept was first Introduced in lecture.
     Insight into angel investors, high-net-worth individuals investing their own money in early-stage startups.
 - **[[Venture Capitalists (VCs)]]**  
     Description of VCs, who pool funds from multiple investors and focus on companies with high growth potential.
-- **[[Strategic/Corporate VCs]]**  
+- **[[Strategic and Corporate VCs]]**  
     Discussion on corporate VCs, focusing on strategic investments that offer non-financial benefits, like distribution or partnerships.
 - **[[Overseas Investors]]**  
     A brief on the largest overseas investors (e.g., China, Germany, Saudi Arabia), with caution about legal regulations.
@@ -111,7 +111,7 @@ Sorted by order of when each concept was first Introduced in lecture.
     Overview of incubators (early-stage) and accelerators (post-MVP), offering community, mentors, and small funding in exchange for equity.
 - **[[Angel Investors]]**  
     Recap on angel investors and their focus on early-stage companies with high-growth potential.
-- **[[VCs]]**  
+- **[[Venture Capitalists (VCs)|VCs]]**  
     Overview of venture capitalists and their focus on high-growth startups.
 
 ---
@@ -145,3 +145,30 @@ Sorted by order of when each concept was first Introduced in lecture.
 
 - **[[Series A]]**  
     Early-stage funding round focused on startups with proven market potential, usually for scaling operations.
+- **[[Liquidation Preference]]**  
+    Who gets paid first in a sale or wind-down, and the participation types (non-participating, full, capped).
+- **[[Protective Provisions and Drag-Along Rights]]**  
+    Investor vetoes over major decisions, and their right to force a sale.
+- **[[Right of First Refusal]]**  
+    Shares must be offered to the VC or the company before anyone else.
+- **[[Board Seats and Control]]**  
+    How board seats shift control, and why your company role shouldn't depend on a board seat.
+
+## Series B and Beyond
+
+- **[[Series B and Beyond]]**  
+    Growth and acquisition rounds, plus bridge financing between them.
+
+## Valuation
+
+- **[[Pre-Money and Post-Money Valuation]]**  
+    How valuation sets investor ownership, with a worked example.
+- **[[Berkus Method]]**  
+    Valuing a pre-revenue startup by the risks it has already reduced.
+- **[[Scorecard Method]]**  
+    Valuing a pre-revenue startup against comparable funded startups.
+
+## Going Public
+
+- **[[IPO]]**  
+    The Initial Public Offering, as an exit and a source of capital.
