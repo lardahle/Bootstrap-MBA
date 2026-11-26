@@ -22,8 +22,8 @@ MTDE 489 - Startup Fundamentals
 Dr. Chris Finberg
 ENGR 461 - Lean Launch
 
-Dr. __ Hillsburg
-MEEN 497 - Innovation Mindset
+Dr. Cynthia Hipwell:
+MEEN 497 - Innovator Mindset for Design and Research (attended part of the course)
 
 Chris Curran
 Meloy Foundation/Engineering Inc. weekly coffee chats
