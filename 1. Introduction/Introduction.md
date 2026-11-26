@@ -4,7 +4,7 @@ tags:
 ---
 This vault is a repository of the business knowledge I picked up in the Engineering Entrepreneurship minor at Texas A&M University, through the [Meloy Program – Engineering Innovation and Entrepreneurship](https://engineering.tamu.edu/student-life/eep/about/index.html).
 
-Special thanks to these professors for their courses and for their profound influence on my entrepreneurial education:
+Special thanks to these professors for their courses and for their profound influence on my entrepreneurial education. The Meloy Program faculty (Paul Deere, Jim Donnell, Chris Finberg and Chris Curran) were the biggest influence of all. Their full profiles are on the [program's page](https://engineering.tamu.edu/student-life/eep/about/index.html).
 
 **Shayla Riviera**
 - MTDE 262 – Entrepreneurship Hour
